@@ -1,5 +1,5 @@
 # Site settings
-title: Developer
+title: Jonathan Rice
 email: jonathanrice@jonathanrice.org
 url: http://jonathanrice.org
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
@@ -39,11 +39,11 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/JonathanRice
+  - title: linkedin
+    url: https://www.linkedin.com/in/jonathan-rice-4740464/
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll	
-  - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: http://stackoverflow.com/users/12942/aldur    
 
 
 # Postal address (add as many lines as necessary)
